@@ -42,4 +42,10 @@ colorRamp.addColorStop(1,'#000');
   ```
  In this case you get a ready to use css rgb color string back like 'rgb(71,34,208)'.
   
+ ![image](https://user-images.githubusercontent.com/1192916/146373688-91526bcd-0de4-4b4a-82dd-e8f948a688de.png)
+
+##Demo
+  
+[Here is a codepen](https://codepen.io/dinther/pen/YzrZerX) to have a look at it in action.
+  
  
